@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rami&#39;s Ruminations</title>
-    <link>https://ramibenchouia1.github.io/</link>
+    <link>https://ramibenchouia1.github.io/tags/political-economy/</link>
     <description></description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jun 2021 17:45:50 -0500</lastBuildDate><atom:link href="https://ramibenchouia1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jun 2021 17:45:50 -0500</lastBuildDate><atom:link href="https://ramibenchouia1.github.io/tags/political-economy/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Between Scylla and Charybdis: Neoliberalism in Algeria?</title>
         <link>https://ramibenchouia1.github.io/posts/exordium/</link>
@@ -14,24 +14,6 @@
         
         <guid>https://ramibenchouia1.github.io/posts/exordium/</guid>
         <description>Exordium         potentially change this picture with the one I got from suq in sidi okba as it might be more relevant and more interesting    A Financial Times article1 from June 14, 2021 titled “Algeria on the brink as pandemic and low oil price take their toll” caught my eye the other day. As I read on, I was struck by a sense of disquietude both at the implications of the article and at my benighted state regarding the history and trajectory of the country.</description>
-      </item>
-    
-      <item>
-        <title>About Me</title>
-        <link>https://ramibenchouia1.github.io/about/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://ramibenchouia1.github.io/about/</guid>
-        <description>Hello! My name is Rami and I&amp;hellip;</description>
-      </item>
-    
-      <item>
-        <title>Contact Info</title>
-        <link>https://ramibenchouia1.github.io/contact/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://ramibenchouia1.github.io/contact/</guid>
-        <description>See how to contact me.</description>
       </item>
     
   </channel>
