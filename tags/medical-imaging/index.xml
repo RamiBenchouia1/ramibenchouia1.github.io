@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rami&#39;s Ruminations</title>
+    <link>https://ramibenchouia1.github.io/tags/medical-imaging/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Aug 2021 16:02:01 -0500</lastBuildDate><atom:link href="https://ramibenchouia1.github.io/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Difference between medical imaging studies</title>
+        <link>https://ramibenchouia1.github.io/posts/difference_between_medical_imaging_studies/</link>
+        <pubDate>Wed, 11 Aug 2021 16:02:01 -0500</pubDate>
+        
+        <guid>https://ramibenchouia1.github.io/posts/difference_between_medical_imaging_studies/</guid>
+        <description>Intro I was looking at something the other day that referenced a few different kinds of high-tech medical imaging technologies, and got to thinking about how there are quite a few different kinds of imaging machinery and technologies used these days, and it wasn’t entirely clear to me what the difference is between them and in what sorts of situations they are used in medicine. So I wanted to clarify that for myself, and try to produce an easy guide for others who might have had the same question.</description>
+      </item>
+    
+  </channel>
+</rss>
